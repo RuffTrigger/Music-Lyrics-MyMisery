@@ -1,5 +1,5 @@
 # Music-Lyrics-MyMisery
-A song i wrote about survival after the bombs fall.
+# A song i wrote about survival after the bombs fall.
 
 
 I breathe ash in my lungs again,
